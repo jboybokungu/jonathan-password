@@ -11,7 +11,7 @@ The link above takes you to a webpage that tells you everything you need to know
 
 
 ## Usage
-Click on "generate password" and answer the questions that will pop in order to get a password
+Click on "generate password" and answer the questions that will pop up and a generated password will appear based on your responses
 
 
 ## Screenshots
